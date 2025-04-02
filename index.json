@@ -41,6 +41,7 @@
     "@elizaos-plugins/plugin-compass": "github:CompassLabs/plugin-compass",
     "@elizaos-plugins/plugin-computer-use": "github:amit0365/plugin-computer-use",
     "@elizaos-plugins/plugin-conflux": "github:elizaos-plugins/plugin-conflux",
+    "@elizaos-plugins/plugin-speech-tts": "github:elizaos-plugins/plugin-speech-tts",
     "@elizaos-plugins/plugin-cosmos": "github:elizaos-plugins/plugin-cosmos",
     "@elizaos-plugins/plugin-cronoszkevm": "github:elizaos-plugins/plugin-cronoszkevm",
     "@elizaos-plugins/plugin-d.a.t.a": "github:carv-protocol/plugin-d.a.t.a",
